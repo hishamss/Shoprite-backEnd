@@ -1,0 +1,9 @@
+C:\Users\Hisham\Desktop\LearnCoding\Revature-JavaReact\Project1\API_Server\src\main\java\com\revature\shoprite\DAO\JdbcPostgresqlConnection.java
+C:\Users\Hisham\Desktop\LearnCoding\Revature-JavaReact\Project1\API_Server\src\main\java\com\revature\shoprite\utilities\DAOUtilities.java
+C:\Users\Hisham\Desktop\LearnCoding\Revature-JavaReact\Project1\API_Server\src\main\java\com\revature\shoprite\servlet\AddEmployee.java
+C:\Users\Hisham\Desktop\LearnCoding\Revature-JavaReact\Project1\API_Server\src\main\java\com\revature\shoprite\servlet\ChangeEmployeeRole.java
+C:\Users\Hisham\Desktop\LearnCoding\Revature-JavaReact\Project1\API_Server\src\main\java\com\revature\shoprite\servlet\GetEmployees.java
+C:\Users\Hisham\Desktop\LearnCoding\Revature-JavaReact\Project1\API_Server\src\main\java\com\revature\shoprite\servlet\LoginServlet.java
+C:\Users\Hisham\Desktop\LearnCoding\Revature-JavaReact\Project1\API_Server\src\main\java\com\revature\shoprite\servlet\FireEmployeeServlet.java
+C:\Users\Hisham\Desktop\LearnCoding\Revature-JavaReact\Project1\API_Server\src\main\java\com\revature\shoprite\servlet\LogoutServlet.java
+C:\Users\Hisham\Desktop\LearnCoding\Revature-JavaReact\Project1\API_Server\src\main\java\com\revature\shoprite\model\Employee.java
